@@ -1,10 +1,10 @@
-# kotlin-cli-sbt-spring-hello-world
+# scala-cli-sbt-spring-hello-world
 
 ## dev-Description
-A POC for kotlin in springframework.
+A POC for scala in springframework.
 
 ## dev-Tech stack
-- kotlin
+- scala
 - sbt
 
 ## dev-Docker stack

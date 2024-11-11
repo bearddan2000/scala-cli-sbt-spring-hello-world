@@ -85,7 +85,7 @@ function start-up(){
 
     echo "$info_base running image" >> $logfile
 
-    sudo docker run -w /workspace/target/classes --rm $docker_img_name /bin/sh -c "kotlin example.AppKt"
+    sudo docker run --rm $docker_img_name
 
     echo "$info_base ended" >> $logfile
 
